@@ -42,5 +42,4 @@ Simple WhatsApp Bot
 
 # Sosmed And Creator
 ```thanks
-- [hendra088](https://github.com/hendra088)
 > Instagram: bintangp_28
