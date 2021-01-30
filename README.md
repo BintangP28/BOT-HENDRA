@@ -69,4 +69,4 @@ Simple WhatsApp Bot
 
 # Sosmed And Creator
 ```thanks
-> Instagram: bintangp_28
+-['Instagram'](https://instagram/bintangp_28)
